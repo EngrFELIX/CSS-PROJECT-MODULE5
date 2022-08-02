@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: hsla(138, 46%, 89%, 0.329);
+  width: 1440px;
+  font-size: 16px;
+}
+main {
+  width: 24%;
+  margin: 50px auto;
+  padding: 20px;
+  background: hsla(0, 0%, 100%, 0.836);
+  border-radius: 10px;
+  text-align: center;
+}
+img {
+  width: 100%;
+  border-radius: 16px;
+}
+h1 {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  width: auto;
+  background: rgba(128, 128, 128, 0.849);
+  margin: 7px;
+}
+p {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  color: hsl(34, 15%, 55%);
+  font-size: 20px;
+  background: skyblue;
+}
+
+  body {
+    background: hsla(84, 9%, 79%, 0.575);
+    width: 100%;
+  }
+  main {
+    width: 80%;
+    margin: 12px auto;
+  }
